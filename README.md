@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your favorite game logo or add your gamer avatar here -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Counter-Strike_Global_Offensive_logo.svg/2560px-Counter-Strike_Global_Offensive_logo.svg.png" width="180" alt="CSGO Logo"/>
+  <img src="https://www.scoopwhoop.com/entertainment/contra/"/>
 </p>
 
 ---
