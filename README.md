@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your favorite game logo or add your gamer avatar here -->
-  <img src="https://www.scoopwhoop.com/entertainment/contra/"/>
+  <img src="![Contra GIF by Andrés Moncayo](https://64.media.tumblr.com/8ae87540f3912cc1a979270881ade806/tumblr_oso3j6VS7t1qbw2q1o7_1280.gifv)">
 </p>
 
 ---
