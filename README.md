@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/sniper.png"/>
+  <img src="https://www.reddit.com/r/nes/comments/5mkcll/retro_gaming_gif_24_super_c_nes/"/>
   <br />
   <strong>Data engineering: the next level. Ready to join?</strong>
 </p>
