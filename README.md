@@ -8,7 +8,7 @@
 
 ### 🎮 About Me
 
-- 🚀 **Stage: EPITA, France**  
+- 🚀 **Ecole: EPITA, France**  
 - 🔫 **Class: Data Engineer**  
 - 🕹️ **Special Move:** Building ML & cloud solutions, shooting down data bottlenecks
 
