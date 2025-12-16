@@ -1,6 +1,6 @@
 <h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢! 💠</h1>
 <div align="center">
-  <img width="500" height="auto" src="navaraja20\3k2ef5mxm5ma1.gif">
+  <img width="720" height="auto" src="Add_ons/WNT.gif">
 </div>
 
 <br>
@@ -37,7 +37,7 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="30" />
   </p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460px" height="auto" align="center">
+  <img src="Add_ons/CNS.gif" width="460px" height="auto" align="center">
 </div>
 
 <br>
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br><br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="auto">
+  <img src="Add_ons/SAO_K.gif" width="400" height="auto">
 </div>
 
 <br>
