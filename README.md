@@ -1,4 +1,4 @@
-<h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢! 💠</h1>
+<h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢! ナヴァ・ラジャ 💠</h1>
 <div align="center">
   <img width="720" height="auto" src="Add_ons/WNT.gif">
 </div>
@@ -9,10 +9,10 @@
 <div align="center">
 <ul>
   <p align = "center"> 🎓 Currently studying at <b>EPITA, France<br></p>
-  <p align = "center"> 🔭 I'm currently working on <b>ML & Cloud deployment projects<br></p>
-  <p align = "center"> 💼 Data Engineer specializing in <b>AWS, Python, and ML pipelines<br></p>
+  <p align = "center"> 🔭 I'm currently working on <b>RAG systems, AI agents & Deep Learning projects<br></p>
+  <p align = "center"> 💼 ML/AI Engineer specializing in <b>LLMs, RAG, Python & Deep Learning<br></p>
   <p align = "center"> 🎮 Gaming enthusiast with <b>FPS gamer spirit<br></p>
-  <p align = "center"> 📫 How to reach me: <b>nava-raja.mannepalli@epita.fr<br></p>
+  <p align = "center"> 📫 How to reach me: <b>mannepallinavaraja@gmail.com<br></p>
 </ul>
 
 <img src="Add_ons/light.gif" width="460px" height="auto" align="center">
@@ -23,7 +23,7 @@
 <h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
 </div>
 <div align="center">
-  <p align = "center">A passionate Data Engineer building scalable ML & cloud solutions, shooting down data bottlenecks with precision.<br></p>
+  <p align = "center">ML/DL Engineer & AI specialist building intelligent systems with RAG, LLMs, and deep learning. Expertise in data engineering, deploying production-ready AI solutions, and creating scalable ML pipelines.<br></p>
   <p align = "center">
     <img style="margin: 5px" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="30" />
@@ -50,9 +50,16 @@
   
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
-| [Employee Performance Prediction](https://github.com/navaraja20/Employee-performance-prediction) | Machine Learning | 🔥 Deployed |
-| [JenkinsBuildUsingAWS](https://github.com/navaraja20/JenkinsBuildUsingAWS) | AWS, Jenkins, CI/CD | 💡 Finished  |
-| [Credit Card Defaulter](https://github.com/navaraja20/Credit_Card_Defaulter_main) | Data Analysis, ML | 💡 Finished |
+| [Research RAG Chatbot](https://github.com/navaraja20/Research_RAG_Chatbot) | RAG, LLMs, Ollama, LangChain | 🔥 Active |
+| [Chat Scholar Llama](https://github.com/navaraja20/Chat_Scholar_llama) | AI, NLP, LLMs | 🔥 Active |
+| [Solar Panel Classification](https://github.com/navaraja20/Solar_Panel_Classification) | Deep Learning, Computer Vision | 💡 Finished |
+| [Self Correcting RARE](https://github.com/navaraja20/Self_correcting_RARE) | RAG, Biomedical AI, LLMs | 💡 Finished |
+| [Player Churn Prediction System](https://github.com/navaraja20/Player_Churn_Prediction_System) | ML, APIs, Real-time Analytics | 💡 Finished |
+| [Breast Cancer Prediction](https://github.com/navaraja20/Breast_cancer_Prediction) | Machine Learning, Healthcare AI | 💡 Finished |
+| [Employee Performance Prediction](https://github.com/navaraja20/Employee-performance-prediction) | Machine Learning, HR Analytics | 💡 Finished |
+| [Credit Card Defaulter](https://github.com/navaraja20/Credit_Card_Defaulter_main) | ML, Data Analysis, Finance | 💡 Finished |
+| [Visual SQL](https://github.com/navaraja20/Visual_SQL) | TypeScript, SQL, Interactive Learning | 💡 Finished |
+| [XENO AI Assistant](https://github.com/navaraja20/xeno-ai-assistant) | AI, Automation, Google Gemini | 💡 Finished |
 
 </div>
 
