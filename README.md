@@ -1,4 +1,4 @@
-<h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢! ナヴァ・ラジャ 💠</h1>
+<h1 align="center">💠 Welcome 👋, 𝘐'𝘮 𝘕𝘢𝘷𝘢𝘳𝘢𝘫𝘢!  ナヴァ・ラジャ 💠</h1>
 <div align="center">
   <img width="720" height="auto" src="Add_ons/WNT.gif">
 </div>
@@ -26,18 +26,27 @@
   <p align = "center">ML/DL Engineer & AI specialist building intelligent systems with RAG, LLMs, and deep learning. Expertise in data engineering, deploying production-ready AI solutions, and creating scalable ML pipelines.<br></p>
   <p align = "center">
     <img style="margin: 5px" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-SQL-1a73e8?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-RAG-6B46C1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkwxMiA2SDlWMTBIMTJMOCAxNEw0IDEwSDdWNkg0TDggMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white" alt="RAG" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ai&logoColor=white" alt="Ollama" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-SQL-1a73e8?style=flat-square&logo=mysql&logoColor=white" alt="SQL" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="30" />
     <img style="margin: 5px" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="30" />
   </p>
   <img src="Add_ons/CNS.gif" width="460px" height="auto" align="center">
 </div>
